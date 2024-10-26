@@ -1,0 +1,9 @@
+vcs \
+-l compile.log \
++v2k \
+-lca \
+-debug_access+all \
+-kdb \
+-full64 \
+-timescale=1ps/1ps \
+-f file.vlist

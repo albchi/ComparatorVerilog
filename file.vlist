@@ -1,0 +1,5 @@
+comparator.v
+#tb_comparator.v
+comparator_primitives.v
+comparator_8.v
+tb_comparator_8.v

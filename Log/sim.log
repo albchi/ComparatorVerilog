@@ -1,0 +1,27 @@
+Command: /home/tc14151/AlbertHome/Class/Quiz1/./simv -l sim.log +vcs+lic+wait
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Oct 25 13:01 2024
+VCD+ Writer U-2023.03-SP2_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+a=00 b=00 l=0 g=0
+a=00 b=01 l=1 g=0
+a=00 b=10 l=1 g=0
+a=00 b=11 l=1 g=0
+a=01 b=00 l=0 g=1
+a=01 b=01 l=0 g=0
+a=01 b=10 l=1 g=0
+a=01 b=11 l=1 g=0
+a=10 b=00 l=0 g=1
+a=10 b=01 l=0 g=1
+a=10 b=10 l=0 g=0
+a=10 b=11 l=1 g=0
+a=11 b=00 l=0 g=1
+a=11 b=01 l=0 g=1
+a=11 b=10 l=0 g=1
+a=11 b=11 l=0 g=0
+$finish called from file "tb_comparator.v", line 36.
+$finish at simulation time                   64
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 64 ps
+CPU Time:      0.360 seconds;       Data structure size:   0.0Mb
+Fri Oct 25 13:01:43 2024

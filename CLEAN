@@ -1,0 +1,1 @@
+rm -rf compile.log csrc sim.log simv simv.daidir ucli.key DVEfiles vcdplus.vpd novas.conf novas_dump.log novas.fsdb novas.rc verdi_config_file verdiLog
